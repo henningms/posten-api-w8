@@ -102,7 +102,6 @@
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Helpers\JsonHelper.cs" />
     <Compile Include="Models\BaseModel.cs" />
     <Compile Include="Models\ConsignmentSet.cs" />
